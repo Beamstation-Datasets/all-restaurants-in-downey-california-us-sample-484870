@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Downey, California with a population of over 114k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Downey, California, US",
-  "export_job_id": "5018912b-d68e-449d-b5f4-97bd5fe14940",
+  "export_job_id": "fef76fdf-c218-4fb5-8c65-bc35a2c5814d",
   "github_org": "Beamstation-Datasets",
   "id_short": 484870,
   "location_name": "Downey",
   "location_type": "city",
   "repo_name": "all-restaurants-in-downey-california-us-sample-484870",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/484870/beamstation_484870_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.96,
+  "sample_pct": 9.72,
   "sample_records": 24,
-  "sample_sha256": "a6ddd2b1ec9086cbd5fb67ccf075823f85dd7dbe59ac43caae486ab2ca8fbf4a",
-  "sample_size_bytes": 108185,
-  "total_records": 241,
-  "updated_at": "2026-04-14T15:14:51.614106+00:00"
+  "sample_sha256": "dd2fc840604a9b75a2042f1d81946cc84ed6900744dec35c1638d1555b123849",
+  "sample_size_bytes": 109296,
+  "total_records": 247,
+  "updated_at": "2026-04-21T16:31:38.716671+00:00"
 }
