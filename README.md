@@ -9,9 +9,9 @@
 | Dataset ID | `484870` |
 | Location | Downey |
 | Category | Restaurants |
-| Full dataset size | 241 records |
-| Free sample size | 24 records (9.96%) |
-| Last export | 2026-04-14T15:14:51.614106+00:00 |
+| Full dataset size | 247 records |
+| Free sample size | 24 records (9.72%) |
+| Last export | 2026-04-21T16:31:38.716671+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-downey-california-us-sample-484870/releases/download/sample-latest/beamstation_484870_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
