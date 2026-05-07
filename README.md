@@ -1,6 +1,6 @@
 # All Restaurants in Downey, California, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `484870` |
 | Location | Downey |
 | Category | Restaurants |
-| Full dataset size | 52 records |
-| Free sample size | 5 records (9.62%) |
-| Last export | 2026-04-28T17:34:07.379141+00:00 |
+| Full dataset size | 248 records |
+| Free sample size | 24 records (9.68%) |
+| Last export | 2026-05-06T21:39:06.064022+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-downey-california-us-sample-484870/releases/download/sample-latest/beamstation_484870_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
