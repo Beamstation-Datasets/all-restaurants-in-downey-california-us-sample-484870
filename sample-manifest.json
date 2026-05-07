@@ -1,12 +1,12 @@
 {
-  "export_job_id": "00b9aa86-abcc-4dc7-94f6-9ea9c1613432",
+  "export_job_id": "eec9dfa1-d2a5-4d12-83ed-64ed5471ce45",
   "id_short": 484870,
-  "published_at": "2026-04-28T19:10:18Z",
+  "published_at": "2026-05-07T07:11:22Z",
   "repo_name": "all-restaurants-in-downey-california-us-sample-484870",
   "sample_asset_name": "beamstation_484870_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/484870/beamstation_484870_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "48e4b0df3094c0054a8898a0cf68865f33bcc973fce06627142e87739b62d045",
-  "sample_size_bytes": 35202,
-  "total_records": 52
+  "sample_records": 24,
+  "sample_sha256": "0dcb9752dd4e525c913c3f5230f5515bcf2f8624d9ad5ad89467f66b5eeb54ad",
+  "sample_size_bytes": 108643,
+  "total_records": 248
 }
